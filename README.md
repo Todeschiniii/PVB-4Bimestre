@@ -11,7 +11,8 @@
 - 📊 [Geração de Relatório](#-geração-de-relatório)
 - 📂 [Estrutura do Projeto](#-estrutura-do-projeto)
 - 🚀 [Possíveis Melhorias Futuras](#-possíveis-melhorias-futuras)
-- 👨‍💻 [Autor](#-autor)
+- [📄 Licença](#-Licença)
+- [👥 Créditos & Contatos](#-créditos--contatos)
 
 ---
 
@@ -149,3 +150,19 @@ A lógica principal está concentrada no `Form1.cs`, responsável pelo controle 
 - Interface com design mais moderno
 - Exportação de relatório em PDF
 - Dashboard estatístico interno
+
+---
+
+# 📄 Licença
+
+Projeto desenvolvido para fins educacionais.
+
+---
+
+# 👥 Créditos & contatos
+
+1. <b>Mateus Todeschini</b> - GitHub: https://github.com/Todeschiniii<br>
+2. <b>Heitor Pinheiro</b> - GitHub: https://github.com/HeitorPinheiro11<br>
+3. <b>Davi Dancuart</b> - GitHub: https://github.com/DaviDancuart<br>
+
+Repositório: https://github.com/Todeschiniii/Sistema-Gerenciador-de-IMC
