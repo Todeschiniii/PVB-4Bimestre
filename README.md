@@ -1,6 +1,6 @@
 # 🧮 Sistema de Gerenciamento de IMC com Relatório Gráfico
 
-## 📌 Sumário
+# 📑 Sumário
 
 - 📖 [Sobre o Projeto](#-sobre-o-projeto)
 - 🎯 [Objetivos Técnicos](#-objetivos-técnicos)
